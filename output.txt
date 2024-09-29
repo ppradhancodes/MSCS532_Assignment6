@@ -1,0 +1,36 @@
+Size: 1000, Distribution: random
+Deterministic: 0.000479 seconds
+Randomized: 0.000262 seconds
+
+Size: 1000, Distribution: sorted
+Deterministic: 0.000372 seconds
+Randomized: 0.000242 seconds
+
+Size: 1000, Distribution: reverse_sorted
+Deterministic: 0.000383 seconds
+Randomized: 0.000105 seconds
+
+Size: 10000, Distribution: random
+Deterministic: 0.004529 seconds
+Randomized: 0.001524 seconds
+
+Size: 10000, Distribution: sorted
+Deterministic: 0.003164 seconds
+Randomized: 0.001315 seconds
+
+Size: 10000, Distribution: reverse_sorted
+Deterministic: 0.003261 seconds
+Randomized: 0.001210 seconds
+
+Size: 100000, Distribution: random
+Deterministic: 0.034789 seconds
+Randomized: 0.010520 seconds
+
+Size: 100000, Distribution: sorted
+Deterministic: 0.026110 seconds
+Randomized: 0.011433 seconds
+
+Size: 100000, Distribution: reverse_sorted
+Deterministic: 0.025953 seconds
+Randomized: 0.007317 seconds
+
